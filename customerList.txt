@@ -1,0 +1,100 @@
+001;Aliah;Pirate’s Revenge;67;3;21/02/2023
+002;Raihana;Pedestrian Suspension Bridge;55;2;22/02/2023
+003;Kate;Lost City of Gold Scream Coaster;78;5;23/02/2023
+004;Ana;Waterplexx 5D;105;3;25/02/2023
+005;Mariah;Surf Beach;98;6;26/02/2023
+006;Daniel;Waterplexx 5D;105;1;25/02/2023
+007;Haris;Pirate’s Revenge;67;7;27/02/2023
+008;Ameer;Little Zimbabwe;140;2;25/02/2023
+009;Nadia;Pedestrian Suspension Bridge;55;8;28/02/2023
+010;Arif;Pedestrian Suspension Bridge;55;5;18/03/2023
+011;Akila;Lost City of Gold Scream Coaster;78;3;19/03/2023
+012;Iman;Waterplexx 5D;105;3;21/03/2023
+013;Ummul;Pirate’s Revenge;67;7;23/03/2023
+014;Aisyah;Lost City of Gold Scream Coaster;78;1;19/03/2023
+015;Sofea;Surf Beach;98;6;10/03/2023
+016;Emilia;Pedestrian Suspension Bridge;55;4;28/02/2023
+017;Syahira;Little Zimbabwe;140;2;24/02/2023
+018;Izzati;Pirate’s Revenge;67;5;29/03/2023
+019;Aina;Pirate’s Revenge;67;1;23/03/2023
+020;Husna;Lost City of Gold Scream Coaster;78;3;25/03/2023
+021;Elise;Waterplexx 5D;105;8;27/03/2023
+022;Justin;Lost City of Gold Scream Coaster;78;2;19/03/2023
+023;Nazrul;Little Zimbabwe;140;6;25/02/2023
+024;Audrey;Lost City of Gold Scream Coaster;78;4;25/03/2023
+025;Hanifa;Waterplexx 5D;105;7;09/03/2023
+026;Jack;Pirate’s Revenge;67;3;11/03/2023
+027;Amirul;Little Zimbabwe;140;5;20/03/2023
+028;Sheila;Waterplexx 5D;105;5;27/03/2023
+029;Imran;Lost City of Gold Scream Coaster;78;8;01/03/2023
+030;Auni;Waterplexx 5D;105;2;09/03/2023
+031;Fakhrul;Pirate’s Revenge;67;7;17/03/2023
+032;Naim;Lost City of Gold Scream Coaster;78;6;19/04/2023
+033;Syahrin;Waterplexx 5D;105;4;27/04/2023
+034;Luqman;Little Zimbabwe;140;3;20/03/2023
+035;Irfan;Lost City of Gold Scream Coaster;78;2;25/03/2023
+036;Fataniah;Waterplexx 5D;105;7;21/05/2023
+037;Maya;Lost City of Gold Scream Coaster;78;1;19/04/2023
+038;Syaza;Pirate’s Revenge;67;6;02/06/2023
+039;Farah;Waterplexx 5D;105;5;27/05/2023
+040;Liyana;Pirate’s Revenge;67;4;17/04/2023
+041;Bella;Pedestrian Suspension Bridge;55;8;24/04/2023
+042;Alyana;Little Zimbabwe;140;7;27/05/2023
+043;Zulaikha;Pirate’s Revenge;67;3;17/03/2023
+044;Amal;Waterplexx 5D;105;5;15/05/2023
+045;Ain;Pirate’s Revenge;67;6;23/05/2023
+046;Shazalin;Pirate’s Revenge;67;1;02/06/2023
+047;Baqirah;Pedestrian Suspension Bridge;55;2;18/03/2023
+048;Tasnim;Lost City of Gold Scream Coaster;78;3;25/03/2023
+049;Azwani;Surf Beach;98;7;28/05/2023
+050;Hafiz;Pedestrian Suspension Bridge;55;8;24/04/2023
+051;Faiz;Surf Beach;98;5;28/04/2023
+052;Nadhira;Lost City of Gold Scream Coaster;78;1;25/03/2023
+053;Syasya;Waterplexx 5D;105;4;15/05/2023
+054;Naufal;Pirate’s Revenge;67;7;24/04/2023
+055;Hakimi;Little Zimbabwe;140;5;20/03/2023
+056;Akmal;Pedestrian Suspension Bridge;55;6;24/05/2023
+057;Yusuf;Little Zimbabwe;140;3;20/03/2023
+058;Afifah;Lost City of Gold Scream Coaster;78;5;25/03/2023
+059;Liniy;Little Zimbabwe;140;8;08/05/2023
+060;Maira;Surf Beach;98;4;28/04/2023
+061;Azwin;Little Zimbabwe;140;7;20/04/2023
+062;Hasyana;Surf Beach;98;1;28/04/2023
+063;Aida;Waterplexx 5D;105;6;15/05/2023
+064;Afiqah;Surf Beach;98;4;28/05/2023
+065;Najwa;Waterplexx 5D;105;2;08/05/2023
+066;Intan;Lost City of Gold Scream Coaster;78;5;01/06/2023
+067;Balqis;Pirate’s Revenge;67;7;23/04/2023
+068;Izyan;Pirate’s Revenge;67;3;28/05/2023
+069;Alif;Lost City of Gold Scream Coaster;78;8;01/06/2023
+070;Qistina;Little Zimbabwe;140;4;20/04/2023
+071;Rushdina;Surf Beach;98;6;24/04/2023
+072;Anis;Waterplexx 5D;105;2;27/05/2023
+073;Athirah;Pedestrian Suspension Bridge;55;7;06/05/2023
+074;Hanan;Surf Beach;98;5;28/05/2023
+075;Nabiha;Lost City of Gold Scream Coaster;78;1;01/06/2023
+076;Farhan;Pirate’s Revenge;67;8;02/06/2023
+077;Anuar;Little Zimbabwe;140;4;08/05/2023
+078;Thaqiff;Surf Beach;98;2;24/04/2023
+079;Suhaimi;Lost City of Gold Scream Coaster;78;3;25/05/2023
+080;Syukri;Little Zimbabwe;140;8;26/04/2023
+081;Shamsul;Surf Beach;98;6;16/05/2023
+082;Azman;Lost City of Gold Scream Coaster;78;5;19/05/2023
+083;Farisha;Surf Beach;98;4;10/04/2023
+084;Fatin;Waterplexx 5D;105;3;21/04/2023
+085;Diyana;Little Zimbabwe;140;2;02/04/2023
+086;Maisara;Lost City of Gold Scream Coaster;78;8;19/05/2023
+087;Ajmal;Little Zimbabwe;140;1;26/04/2023
+088;Natasha;Surf Beach;98;7;28/05/2023
+089;Fatihah;Pedestrian Suspension Bridge;55;5;12/04/2023
+090;Safia;Little Zimbabwe;140;6;14/04/2023
+091;Atikah;Lost City of Gold Scream Coaster;78;2;19/05/2023
+092;Zayana;Waterplexx 5D;105;3;27/04/2023
+093;Mardiya;Surf Beach;98;4;10/04/2023
+094;Amirudin;Waterplexx 5D;105;5;09/04/2023
+095;Batrisya;Little Zimbabwe;140;6;02/04/2023
+096;Munirah;Lost City of Gold Scream Coaster;78;7;19/05/2023
+097;Hasena;Little Zimbabwe;140;8;14/04/2023
+098;Elanie;Surf Beach;98;1;10/04/2023
+099;Syamimi;Pirate’s Revenge;67;2;26/04/2023
+100;Huda;Pedestrian Suspension Bridge;55;3;06/05/2023
